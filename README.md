@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-(website)[https://kowanietz.com]
+[website](https://kowanietz.com)
