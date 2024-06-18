@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kowanietz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kowanietz" height="30" width="40" /></a>
 </p>
-<a href="https://kowanietz.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/403777/letter-k.svg" alt="kowanietz" height="30" width="40" /></a>
+<a href="https://kowanietz.com" target="blank">kowanietz.com</a>
 </p>
 
 
